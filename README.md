@@ -41,8 +41,8 @@ Currently, 1080p and 1440p are supported for Elden Ring. If you wish to add supp
 ## Authors
 
 swemoney
-[Twitch](https://twitch.tv/swemoney)
-[Twitter](https://twitter.com/swemoney)
+* [Twitch](https://twitch.tv/swemoney) 
+* [Twitter](https://twitter.com/swemoney)
 
 ## Version History
 
