@@ -1,0 +1,8 @@
+{
+    "capture_frame": {
+        "1920x1080": {"top": 490, "left": 730, "width": 450, "height": 100},
+        "2560x1440": {"top": 660, "left": 990, "width": 600, "height": 130}
+    },
+    "confidence": 0.5,
+    "close": 0.25
+}
